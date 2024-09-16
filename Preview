@@ -1,0 +1,11 @@
+This Project is based on Arduino where the aim of thid project is to segregate/seperate wet and Dry Garbage.
+The code is written in text file where you have to copy and paste it into arduino IDE which is download from chrome browser.
+
+Requirements:
+Arduino
+Servo Motors
+Ultrasonic Sensors and Soil Sensors
+Jumper Wire
+BreadBoard
+Installation of IDE(Arduino)
+cardboard
